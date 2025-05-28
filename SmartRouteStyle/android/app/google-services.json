@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038367007019",
+    "project_id": "coderfurkan-19119",
+    "storage_bucket": "coderfurkan-19119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038367007019:android:fb50e20234505a8622e56e",
+        "android_client_info": {
+          "package_name": "com.smart_routes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhzosnGm8oH5yW_zGm67dYjuS7vyzi58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
